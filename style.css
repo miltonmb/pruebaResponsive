@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    overflow: hidden;
+}
+
+.container-fluid,
+.row {
+    height: 100%;
+}
+
+.rectangle-container {
+    box-sizing: border-box
+}
+
+.rectangle {
+    background-color: green;
+    width: 100%;
+    height: 100%;
+}
